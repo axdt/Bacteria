@@ -1,0 +1,35 @@
+{
+    "type": "minecraft:crafting_shaped",
+    
+    "pattern":
+    [
+        "WYW",
+        "YWY",
+        "WBW"
+    ],
+    
+    "key":
+    {
+        "B":
+        {
+            "item": "minecraft:water_bucket"
+        },
+		"Y":
+		{
+			"item": "minecraft:yellow_flower",
+			"data": 0
+		},
+		"W":
+		{
+			"item": "minecraft:wool",
+			"data": 0
+		}
+    },
+    
+    "result":
+    {
+        "item": "minecraft:sponge",
+		"data": 0,
+        "count": 1
+    }
+}

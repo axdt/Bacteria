@@ -1,0 +1,25 @@
+{
+	"display": {
+		"icon": {
+			"item": "xijun:bacteria"
+		},
+		"title": {
+			"translate": "assets.adv.xijun.xijun.title"
+		},
+		"description": {
+			"translate": "assets.adv.xijun.xijun.des"
+		},
+		"frame": "goal"
+	},
+	"parent": "xijun:xijun/bunchAdvancement",
+	"criteria": {
+		"has_bacteria": {
+			"trigger": "minecraft:inventory_changed",
+			"conditions": {
+				"items": [{
+					"item": "xijun:bacteria"
+				}]
+			}
+		}
+	}
+}

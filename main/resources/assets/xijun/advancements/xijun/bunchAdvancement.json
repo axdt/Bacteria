@@ -1,0 +1,25 @@
+{
+	"display": {
+		"icon": {
+			"item": "xijun:bunch"
+		},
+		"title": {
+			"translate": "assets.adv.xijun.bunch.title"
+		},
+		"description": {
+			"translate": "assets.adv.xijun.bunch.des"
+		},
+		"frame": "goal"
+	},
+	"parent": "xijun:xijun/mustAdvancement",
+	"criteria": {
+		"has_bunch": {
+			"trigger": "minecraft:inventory_changed",
+			"conditions": {
+				"items": [{
+					"item": "xijun:bunch"
+				}]
+			}
+		}
+	}
+}

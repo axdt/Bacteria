@@ -1,0 +1,29 @@
+{
+    "type": "minecraft:crafting_shaped",
+    
+    "pattern":
+    [
+        "MMM",
+        "MAM",
+        "MMM"
+    ],
+    
+    "key":
+    {
+        "M":
+        {
+            "type": "forge:ore_dict",
+            "ore": "ingotSteel"
+        },
+        "A":
+        {
+            "item": "minecraft:apple"
+        }
+    },
+    
+    "result":
+    {
+        "item": "xijun:steelapple",
+        "count": 1
+    }
+}

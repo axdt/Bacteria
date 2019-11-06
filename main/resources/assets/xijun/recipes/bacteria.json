@@ -1,0 +1,28 @@
+{
+    "type": "minecraft:crafting_shaped",
+    
+    "pattern":
+    [
+        " B ",
+        "BRB",
+        " B "
+    ],
+    
+    "key":
+    {
+        "B":
+        {
+            "item": "xijun:bunch"
+        },
+		"R":
+		{
+			"item": "minecraft:redstone_torch"
+		}
+    },
+    
+    "result":
+    {
+        "item": "xijun:bacteria",
+        "count": 1
+    }
+}

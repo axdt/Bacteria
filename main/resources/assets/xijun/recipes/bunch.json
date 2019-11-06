@@ -1,0 +1,33 @@
+{
+    "type": "minecraft:crafting_shaped",
+    
+    "pattern":
+    [
+        "MMM",
+        "MAM",
+        "MSM"
+    ],
+    
+    "key":
+    {
+        "M":
+        {
+            "item": "xijun:must"
+        },
+        "A":
+        {
+            "item": "minecraft:water_bucket",
+            "data": 0
+        },
+        "S":
+        {
+            "item": "minecraft:crafting_table"
+        }
+    },
+    
+    "result":
+    {
+        "item": "xijun:bunch",
+        "count": 1
+    }
+}

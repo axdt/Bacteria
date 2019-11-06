@@ -1,0 +1,16 @@
+[
+{
+  "modid": "xijun",
+  "name": "Xijunmod",
+  "description": "A continued version of this mod that I ported over to 1.12.2",
+  "version": "2.2",
+  "mcversion": "1.12.2",
+  "url": "Rplay123.github.io",
+  "updateUrl": "Rplay123.github/op",
+  "authorList": ["huanmeng","Reply","cyup","\u5e7b\u68a6\u002e\u5747\u4e3a\u4f5c\u8005"],
+  "credits": "TeNNoX, for the original version of this mod",
+  "logoFile": "",
+  "screenshots": [],
+  "dependencies": []
+}
+]

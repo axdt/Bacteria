@@ -1,0 +1,29 @@
+{
+    "type": "minecraft:crafting_shaped",
+    
+    "pattern":
+    [
+        " B ",
+        "BRB",
+        " B "
+    ],
+    
+    "key":
+    {
+        "B":
+        {
+            "item": "xijun:bunch"
+        },
+		"R":
+		{
+			"item": "minecraft:coal",
+			"data": 1
+		}
+    },
+    
+    "result":
+    {
+        "item": "xijun:replacer",
+        "count": 1
+    }
+}

@@ -1,0 +1,25 @@
+{
+	"display": {
+		"icon": {
+			"item": "xijun:jammeritem"
+		},
+		"title": {
+			"translate": "assets.adv.xijun.jammer.title"
+		},
+		"description": {
+			"translate": "assets.adv.xijun.jammer.des"
+		},
+		"frame": "goal"
+	},
+	"parent": "xijun:xijun/xijunAdvancement",
+	"criteria": {
+		"used_jammer": {
+			"trigger": "minecraft:inventory_changed",
+			"conditions": {
+				"items": [{
+					"item": "xijun:jammeritem"
+				}]
+			}
+		}
+	}
+}

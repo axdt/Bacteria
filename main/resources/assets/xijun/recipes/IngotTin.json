@@ -1,0 +1,25 @@
+{
+    "type": "minecraft:crafting_shaped",
+    
+    "pattern":
+    [
+        "M  ",
+        "   ",
+        "   "
+    ],
+    
+    "key":
+    {
+        "M":
+        {
+            "type": "forge:ore_dict",
+            "ore": "ingotSteel"
+        }
+    },
+    
+    "result":
+    {
+        "item": "thermalfoundation:material",
+        "data": "129"
+    }
+}

@@ -1,0 +1,13 @@
+{
+    "variants": {
+		"normal": { "model": "xijun:must" },
+        "grown=0": { "model": "xijun:must" },
+        "grown=1": { "model": "xijun:must" },
+        "grown=2": { "model": "xijun:must" },
+        "grown=3": { "model": "xijun:must" },
+        "grown=4": { "model": "xijun:must" },
+        "grown=5": { "model": "xijun:must" },
+        "grown=6": { "model": "xijun:must" },
+        "grown=7": { "model": "xijun:must_grown" }
+    }
+}

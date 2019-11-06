@@ -1,0 +1,28 @@
+{
+    "type": "minecraft:crafting_shaped",
+    
+    "pattern":
+    [
+        "MMM",
+        "MAM",
+        "MMM"
+    ],
+    
+    "key":
+    {
+        "M":
+        {
+            "item": "minecraft:iron_block"
+        },
+        "A":
+        {
+            "item": "minecraft:apple"
+        }
+    },
+    
+    "result":
+    {
+        "item": "xijun:ironapple",
+        "count": 1
+    }
+}

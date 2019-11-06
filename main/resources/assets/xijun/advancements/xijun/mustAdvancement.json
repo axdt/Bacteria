@@ -1,0 +1,25 @@
+{
+	"display": {
+		"icon": {
+			"item": "xijun:must"
+		},
+		"title": {
+			"translate": "assets.adv.xijun.must.title"
+		},
+		"description": {
+			"translate": "assets.adv.xijun.must.des"
+		},
+		"frame": "goal",
+		"background": "minecraft:textures/gui/advancements/backgrounds/stone.png"
+	},
+	"criteria": {
+		"has_must": {
+			"trigger": "minecraft:inventory_changed",
+			"conditions": {
+				"items": [{
+					"item": "xijun:must"
+				}]
+			}
+		}
+	}
+}
